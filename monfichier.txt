@@ -5,5 +5,3 @@ Hello world new commit 2
 Hello world new commit 3
 
 Hello world new commit 4
-
-Nouvelle-Branche : modification apportées pour le txt
